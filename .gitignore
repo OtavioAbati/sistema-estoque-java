@@ -1,0 +1,7 @@
+# Ignorar pastas de configuração de IDE e compilação
+backend/.idea/
+backend/target/
+backend/out/
+backend/*.iml
+frontend/.vscode/
+.DS_Store
